@@ -1,6 +1,6 @@
 # 🎓 UFSM Bolsas
 
-O **UFSM Bolsas** é uma solução composta por uma API de Web Scraping e um aplicativo mobile desenvolvidos para facilitar a busca por editais de Iniciação Científica (IC) e outras oportunidades na Universidade Federal de Santa Maria (UFSM). 
+O **UFSM Bolsas** é uma solução composta por uma API de Web Scraping e um aplicativo mobile desenvolvidos para facilitar a busca por editais de bolsas de pesquisa na Universidade Federal de Santa Maria (UFSM). 
 
 O sistema automatiza a extração de dados do portal da universidade, categorizando as bolsas por áreas (Ciências Agrárias, Engenharias, etc.) e entregando essas informações de forma rápida e otimizada para os estudantes através de um app nativo.
 
